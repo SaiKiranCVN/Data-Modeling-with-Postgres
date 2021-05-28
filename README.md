@@ -2,7 +2,12 @@
 
 There is a startup called Sparkify who wants to analyze the data that they have been collecting. So, the aim of the project is to perform ETL of the data(JSON to a Postgres Database) that Sparkify has collected for easy analysis.The dataset used here is an subset of [Million songs Dataset](http://millionsongdataset.com/).<br>
 
+Song Dataset consists of meta data of each song. File structure is as follows<br>
 
+```
+song_data/A/B/C/TRABCEI128F424C983.json
+song_data/A/A/B/TRAABJL12903CDCF1A.json
+```
 
 ## Database Design
 
