@@ -7,7 +7,7 @@ There is a startup called Sparkify who wants to analyze the data that they have 
 ## Database Design
 
 Fact Table - `'songplays'` - records in log data associated with song plays. <br>
-Columns - songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location,<br> user_agent
+Columns - songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
 <br><br>
 Dimension Tables -
 <br>
