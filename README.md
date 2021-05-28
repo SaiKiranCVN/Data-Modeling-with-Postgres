@@ -21,7 +21,7 @@ log_data/2018/11/2018-11-13-events.json
 ```
 And, a log file(2018-11-12-events.json) looks as follows,
 
-
+![alt txt](log-data.png)
 
 ## Database Design
 
