@@ -1,6 +1,8 @@
 # Data Modeling with Postgres
 
-There is a startup called Sparkify who wants to analyze the data that they have been collecting. <br>So, the aim of the project is to perform ETL of the data(JSON to a Postgres Database) that <br>Sparkify has collected for easy analysis.The dataset used here is an subset of<br> [Million songs Dataset](http://millionsongdataset.com/).<br>
+There is a startup called Sparkify who wants to analyze the data that they have been collecting. So, the aim of the project is to perform ETL of the data(JSON to a Postgres Database) that Sparkify has collected for easy analysis.The dataset used here is an subset of [Million songs Dataset](http://millionsongdataset.com/).<br>
+
+
 
 ## Database Design
 
