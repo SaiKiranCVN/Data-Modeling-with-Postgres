@@ -89,6 +89,9 @@ def process_data(cur, conn, filepath, func):
 
 
 def main():
+    """
+    Connect to DB and call the methods to process log and song files.
+    """
     conn = psycopg2.connect("host=127.0.0.1 dbname=sparkifydb user=student password=student")
     cur = conn.cursor()
 
